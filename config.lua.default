@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '161579222:AAFHcfSzxPQ1Ju1-UEkRE3wiWLFOh6ZsDmI',
 	lastfm_api_key = '',
 	biblia_api_key = '',
 	thecatapi_key = '',
@@ -7,7 +7,7 @@ return {
 	time_offset = 0,
 	locale = dofile('loc/en.lua'),
 	admins = {
-		[000] = 'name'
+		[122662162] = 'hamed-power'
 	},
 	plugins = {
 		'about.lua',
@@ -57,7 +57,7 @@ return {
 		realm = -000,
 		realmname = 'Realm name or ident',
 		admins = {
-			['000'] = 'nickname',
+			['122662162'] = 'hamed-power',
 		}
 	}
 }
